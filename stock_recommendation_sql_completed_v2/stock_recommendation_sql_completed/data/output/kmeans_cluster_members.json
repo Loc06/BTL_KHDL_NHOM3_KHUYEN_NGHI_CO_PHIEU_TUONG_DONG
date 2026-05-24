@@ -1,0 +1,26 @@
+[
+  {
+    "KMeans_Cluster":0,
+    "Count":20,
+    "Top_Sectors":"Banking, Securities, Materials, Real Estate, Midcap",
+    "Tickers":"ACB.VN, BID.VN, CTG.VN, HDB.VN, HPG.VN, LPB.VN, MBB.VN, MSB.VN, SHB.VN, SJS.VN, SSI.VN, TCB.VN, TPB.VN, VCB.VN, VCI.VN, VIB.VN, VIX.VN, VND.VN, VPB.VN, VRE.VN"
+  },
+  {
+    "KMeans_Cluster":1,
+    "Count":22,
+    "Top_Sectors":"Pharma, Seafood, Materials, Consumer, Industrial",
+    "Tickers":"ANV.VN, BMP.VN, CSV.VN, DBD.VN, DCM.VN, DGC.VN, DHG.VN, FMC.VN, FPT.VN, GAS.VN, GMD.VN, HAH.VN, IMP.VN, KDH.VN, NT2.VN, PAN.VN, PNJ.VN, REE.VN, SAB.VN, TRA.VN, VHC.VN, VNM.VN"
+  },
+  {
+    "KMeans_Cluster":2,
+    "Count":2,
+    "Top_Sectors":"Real Estate",
+    "Tickers":"VHM.VN, VIC.VN"
+  },
+  {
+    "KMeans_Cluster":3,
+    "Count":45,
+    "Top_Sectors":"Midcap, Real Estate, Materials, Construction, Energy",
+    "Tickers":"ASM.VN, BCM.VN, BMI.VN, BSR.VN, BVH.VN, BWE.VN, CII.VN, CMG.VN, CTD.VN, DBC.VN, DGW.VN, DIG.VN, DPM.VN, DXG.VN, EIB.VN, ELC.VN, FRT.VN, FTS.VN, GIL.VN, GVR.VN, HAG.VN, HCM.VN, HHV.VN, HSG.VN, HVN.VN, IDI.VN, KBC.VN, MIG.VN, MSN.VN, MWG.VN, NKG.VN, NLG.VN, PDR.VN, PET.VN, PLX.VN, POW.VN, PVD.VN, SCR.VN, SSB.VN, STB.VN, TCM.VN, VCG.VN, VDS.VN, VJC.VN, VSC.VN"
+  }
+]

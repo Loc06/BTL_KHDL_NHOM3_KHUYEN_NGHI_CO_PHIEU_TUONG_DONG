@@ -1,0 +1,37 @@
+{
+  "pca_2d_explained_variance_ratio": [
+    0.19749432627686864,
+    0.14640856439222139
+  ],
+  "pca_2d_total": 0.34390289066909,
+  "pca_3d_explained_variance_ratio": [
+    0.19749432627686864,
+    0.14640856439222139,
+    0.1385151722020282
+  ],
+  "pca_3d_total": 0.4824180628711182,
+  "features": [
+    "CLOSE",
+    "RET",
+    "AVG_VOL",
+    "VOL",
+    "PE",
+    "PB",
+    "FPE",
+    "ROE",
+    "ROA",
+    "REV_G",
+    "EPS_G",
+    "GM",
+    "PM",
+    "OM",
+    "DE",
+    "CR",
+    "QR",
+    "BETA",
+    "MCAP",
+    "FCF",
+    "OCF",
+    "DY"
+  ]
+}
