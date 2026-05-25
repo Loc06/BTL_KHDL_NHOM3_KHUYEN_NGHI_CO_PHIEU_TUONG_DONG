@@ -91,7 +91,3 @@ stock-similarity-recommendation/
 > `![Biểu đồ phân cụm](link_to_image)`
 **3. Ví dụ danh sách cổ phiếu tương đồng:**
 > *Khi truy vấn mã ABC, hệ thống khuyến nghị các mã cùng cụm: XYZ, MNP...*
----
-<p align="center">
-  Được phát triển bởi <b>Lộc</b> - Phục vụ môn học Khoa học Dữ liệu.
-</p>
